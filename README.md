@@ -1,0 +1,2 @@
+# demonstrator mongo rs setup
+This docker container runs a one off script that will configure the docker container that runs the mongo db database. It will change the mongo configuration to also produce change events.
